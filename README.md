@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Activity Tracker Project</h1>
+<h1 align="center" id="title">TrackMe Project</h1>
 <p id="description">TrackMe is a comprehensive project that includes a backend server, a frontend web application, and a browser extension. The project is designed to track user screen time, provide insights into browsing habits, and manage website access restrictions.</p>
 <h2>🧐 Features</h2>
 
