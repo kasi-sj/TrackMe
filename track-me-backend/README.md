@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Activity Tracker Backend</h1>
+<h1 align="center" id="title">TrackMe Backend</h1>
 
-<p id="description">Activity Tracker Backend is the backend component of the Activity Tracker project. It is built with Ruby on Rails and serves as the server-side logic for handling data storage retrieval and processing.</p>
+<p id="description">TrackMe Backend is the backend component of the TrackMe project. It is built with Ruby on Rails and serves as the server-side logic for handling data storage retrieval and processing.</p>
 
   
   
@@ -76,7 +76,7 @@ rails s
 
 
 ## Project Links
-This is a subproject of **Activity Tracker** and is used for `backend purpose`.
+This is a subproject of **TrackMe** and is used for `backend purpose`.
 
 - [Repository](https://github.com/kasi-sj/TrackMe/)
   
