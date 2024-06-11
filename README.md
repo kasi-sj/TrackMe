@@ -61,8 +61,10 @@ Technologies used in the project:
     Frontend: Next.js, Material UI, Tailwind CSS, Next UI, React Query
     Browser Extension: HTML, CSS, JavaScript, Manifest.json
 
-<h2>🌐 Live Demo</h2>
 
-    Track-Me-Website
+## 🌐 Live Demo
+
+- [Track-Me-Website](https://trackme-web-jade.vercel.app/).
+
 
 <h2>💖 Like My Work?</h2>
