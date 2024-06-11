@@ -42,7 +42,7 @@ https://github.com/kasi-sj/TrackMe/
 <p>2. Navigate to the project directory</p>
 
 ```
-cd track-me-website
+cd trackme-web
 ```
 
 <p>3. Install dependencies</p>
