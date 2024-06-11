@@ -1,0 +1,13 @@
+<!-- app/views/user_mailer/verification_email.html.erb -->
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Welcome to My Awesome Site, <%= @user.name %>!</h1>
+    <p>
+      To verify your email address, please click the link below:
+    </p>
+    <p>
+      <%= link_to 'Verify your email', @url %>
+    </p>
+  </body>
+</html>

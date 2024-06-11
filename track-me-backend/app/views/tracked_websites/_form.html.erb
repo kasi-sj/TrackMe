@@ -1,0 +1,32 @@
+<%= form_with(model: tracked_website) do |form| %>
+  <% if tracked_website.errors.any? %>
+    <div style="color: red">
+      <h2><%= pluralize(tracked_website.errors.count, "error") %> prohibited this tracked_website from being saved:</h2>
+
+      <ul>
+        <% tracked_website.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div>
+    <%= form.label :user_id, style: "display: block" %>
+    <%= form.text_field :user_id %>
+  </div>
+
+  <div>
+    <%= form.label :websiteurl, style: "display: block" %>
+    <%= form.text_field :websiteurl %>
+  </div>
+
+  <div>
+    <%= form.label :time, style: "display: block" %>
+    <%= form.datetime_field :time %>
+  </div>
+
+  <div>
+    <%= form.submit %>
+  </div>
+<% end %>

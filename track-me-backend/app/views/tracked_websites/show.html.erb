@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @tracked_website %>
+
+<div>
+  <%= link_to "Edit this tracked website", edit_tracked_website_path(@tracked_website) %> |
+  <%= link_to "Back to tracked websites", tracked_websites_path %>
+
+  <%= button_to "Destroy this tracked website", @tracked_website, method: :delete %>
+</div>

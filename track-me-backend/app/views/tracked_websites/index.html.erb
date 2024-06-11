@@ -1,0 +1,14 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Tracked websites</h1>
+
+<div id="tracked_websites">
+  <% @tracked_websites.each do |tracked_website| %>
+    <%= render tracked_website %>
+    <p>
+      <%= link_to "Show this tracked website", tracked_website %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New tracked website", new_tracked_website_path %>

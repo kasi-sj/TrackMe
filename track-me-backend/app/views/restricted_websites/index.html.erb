@@ -1,0 +1,14 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Restricted websites</h1>
+
+<div id="restricted_websites">
+  <% @restricted_websites.each do |restricted_website| %>
+    <%= render restricted_website %>
+    <p>
+      <%= link_to "Show this restricted website", restricted_website %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New restricted website", new_restricted_website_path %>

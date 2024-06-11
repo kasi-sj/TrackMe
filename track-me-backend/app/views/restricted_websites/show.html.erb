@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @restricted_website %>
+
+<div>
+  <%= link_to "Edit this restricted website", edit_restricted_website_path(@restricted_website) %> |
+  <%= link_to "Back to restricted websites", restricted_websites_path %>
+
+  <%= button_to "Destroy this restricted website", @restricted_website, method: :delete %>
+</div>

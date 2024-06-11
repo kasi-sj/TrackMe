@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  websiteurl: MyString
+  limitedtime: 2024-05-15 11:08:00
+  isblocked: false
+
+two:
+  user: two
+  websiteurl: MyString
+  limitedtime: 2024-05-15 11:08:00
+  isblocked: false
