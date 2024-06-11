@@ -87,6 +87,4 @@ Technologies used in the project:
 
 *   Ruby on Rails
 *   PostgreSQL
-<h2>Important Note</h2>
-
 
