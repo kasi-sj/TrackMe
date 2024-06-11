@@ -23,7 +23,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/kasi-sj/activity-tracker-extension
+git clone https://github.com/kasi-sj/TrackMe/
 ```
 
 <p>2. Navigate to the project directory</p>
@@ -74,9 +74,7 @@ Technologies used in the project:
 ## Project Links
 This project is a subproject of **Activity Tracker** and is used for `extension purpose(background worker)`.
 
-- [Back-End Repository](https://github.com/kasi-sj/track-me-backend)
-- [Front-End Repository](https://github.com/kasi-sj/track-me-website)
-- [Extension Repository](https://github.com/kasi-sj/activity-tracker-extension)
+- [Repository](https://github.com/kasi-sj/TrackMe/)
 
 <h2>Extension Integration</h2>
 <p>
