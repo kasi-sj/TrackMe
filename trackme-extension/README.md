@@ -71,6 +71,7 @@ Technologies used in the project:
 *   Manifest.json
 
 <h1>Important note</h1>
+
 ## Project Links
 This project is a subproject of **Activity Tracker** and is used for `extension purpose(background worker)`.
 
