@@ -76,11 +76,9 @@ rails s
 
 
 ## Project Links
-This project is a subproject of **Activity Tracker** and is used for `backend purpose`.
+This is a subproject of **Activity Tracker** and is used for `backend purpose`.
 
-- [Back-End Repository](https://github.com/kasi-sj/track-me-backend)
-- [Front-End Repository](https://github.com/kasi-sj/track-me-website)
-- [Extension Repository](https://github.com/kasi-sj/activity-tracker-extension)
+- [Repository](https://github.com/kasi-sj/TrackMe/)
   
   
 <h2>💻 Built with</h2>
@@ -90,9 +88,5 @@ Technologies used in the project:
 *   Ruby on Rails
 *   PostgreSQL
 <h2>Important Note</h2>
-<p>
-  &rarr; The environment variables (ENV files) required for this project are provided in a separate repository. You can access them [here](https://github.com/kasi-sj/credentials.git) and apply them to your project accordingly.<br>
-  &rarr; As both MySQL and PostgreSQL are relational databases, I have switched from MySQL to PostgreSQL for this project.
-</p>
 
 
