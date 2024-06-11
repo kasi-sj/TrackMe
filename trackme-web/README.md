@@ -100,7 +100,7 @@ To enable seamless communication between the application and your browser extens
 </p>
 
 ## Project Links
-This project is a subproject of **Activity Tracker** and is used for `frontend purpose(web application)`.
+This  is a subproject of **Activity Tracker** and is used for `frontend purpose(web application)`.
 
 - [Repository](https://github.com/kasi-sj/track-me-website)
 
