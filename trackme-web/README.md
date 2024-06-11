@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Activity Tracker Frontend</h1>
+<h1 align="center" id="title">TrackMe Frontend</h1>
 
-<p id="description">Activity Tracker Frontend is the frontend component of the Activity Tracker project. It is built with Next.js and provides the user interface for interacting with screen time data tracked by the backend. it uses material UI for showing analysis and next Ui for components</p>
+<p id="description">TrackMe Frontend is the frontend component of the TrackMe project. It is built with Next.js and provides the user interface for interacting with screen time data tracked by the backend. it uses material UI for showing analysis and next Ui for components</p>
 
 <h2>📱 ScreenShots</h2>
 
@@ -17,7 +17,7 @@ Here're some of the project's best features:
 
 *   Visualizes screen time analytics using Material UI and Next UI components
 *   Allows users to view their screen time statistics in an intuitive dashboard
-*   Integrates with the Activity Tracker backend to fetch and display data
+*   Integrates with the TrackMe backend to fetch and display data
 *   Users can restrict and limit website access as needed. This feature allows for better control and management of browsing activities.
 <h2> Live Demo </h2>
 
@@ -101,7 +101,7 @@ To enable seamless communication between the application and your browser extens
 </p>
 
 ## Project Links
-This  is a subproject of **Activity Tracker** and is used for `frontend purpose(web application)`.
+This  is a subproject of **TrackMe** and is used for `frontend purpose(web application)`.
 
 - [Repository](https://github.com/kasi-sj/track-me-website)
 
