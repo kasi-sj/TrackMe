@@ -19,10 +19,9 @@ Here're some of the project's best features:
 *   Allows users to view their screen time statistics in an intuitive dashboard
 *   Integrates with the Activity Tracker backend to fetch and display data
 *   Users can restrict and limit website access as needed. This feature allows for better control and management of browsing activities.
-
 <h2> Live Demo </h2>
 ## Project Link
-- [Track-Me-Website](https://track-me-website.vercel.app/).
+- [Track-Me-Website](https://trackme-web-jade.vercel.app/).
 
 <h2>Quick Login </h2>
 <p>
@@ -37,7 +36,7 @@ password : example
 <p>1. Clone the repository</p>
 
 ```
-https://github.com/kasi-sj/track-me-website
+https://github.com/kasi-sj/TrackMe/
 ```
 
 <p>2. Navigate to the project directory</p>
@@ -101,9 +100,7 @@ To enable seamless communication between the application and your browser extens
 ## Project Links
 This project is a subproject of **Activity Tracker** and is used for `frontend purpose(web application)`.
 
-- [Back-End Repository](https://github.com/kasi-sj/track-me-backend)
-- [Front-End Repository](https://github.com/kasi-sj/track-me-website)
-- [Extension Repository](https://github.com/kasi-sj/activity-tracker-extension)
+- [Repository](https://github.com/kasi-sj/track-me-website)
 
 Extension `ID: your-extension-id`
 
