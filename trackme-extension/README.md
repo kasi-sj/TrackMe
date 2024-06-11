@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Activity Tracker Chrome Extension</h1>
+<h1 align="center" id="title">TrackMe Chrome Extension</h1>
 
-<p id="description">Activity Tracker Chrome Extension is a browser extension designed to track user screen time and store the data for analysis. It integrates seamlessly with the user's browser to capture screen time metrics and send them to the Activity Tracker backend for storage.</p>
+<p id="description">TrackMe Chrome Extension is a browser extension designed to track user screen time and store the data for analysis. It integrates seamlessly with the user's browser to capture screen time metrics and send them to the TrackMe backend for storage.</p>
 
 
 <h2>📱 ScreenShots</h2>
@@ -14,7 +14,7 @@
 Here're some of the project's best features:
 
 *   Tracks user screen time across websites visited
-*   Stores screen time data securely in a PostgreSQL database via the Activity Tracker backend
+*   Stores screen time data securely in a PostgreSQL database via the TrackMe backend
 *   Provides users with insights into their browsing habits and screen time usage
 
 <h2>🛠️ Installation Steps:</h2>
@@ -73,7 +73,7 @@ Technologies used in the project:
 <h1>Important note</h1>
 
 ## Project Links
-This project is a subproject of **Activity Tracker** and is used for `extension purpose(background worker)`.
+This project is a subproject of **TrackMe** and is used for `extension purpose(background worker)`.
 
 - [Repository](https://github.com/kasi-sj/TrackMe/)
 
