@@ -29,7 +29,7 @@ git clone https://github.com/kasi-sj/TrackMe/
 <p>2. Navigate to the project directory</p>
 
 ```
-cd activity-tracker-extension
+cd  trackme-extension/extension
 ```
 
 <p>4. Load the extension in Chrome</p>
@@ -51,7 +51,7 @@ Click on "Load unpacked"
 ```
 
 ```
-Select the `activity-tracker-extension` 
+Select the `trackme-extension/extension` folder 
 ```
 
 <p>5. Sign In into website</p>
