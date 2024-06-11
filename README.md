@@ -3,7 +3,7 @@
 <h2>🧐 Features</h2>
 
 
-<h2>Web Application</h2>
+<h3>Web Application</h3>
 
  ![Screenshot 2024-05-20 234141](https://github.com/kasi-sj/track-me-website/assets/110708280/2acf3498-4276-4a23-a468-dd10c278671f)
  ![Screenshot 2024-05-20 234627](https://github.com/kasi-sj/track-me-website/assets/110708280/0f47057f-1817-414a-872a-762734cee6d1)
@@ -36,9 +36,9 @@ This repository consists of three main components:
 Each component has its own detailed README file with specific setup instructions and features.
 <h2>📄 Subproject READMEs</h2>
 
-    Backend README
-    Frontend README
-    Browser Extension README
+- [Backend README](https://github.com/kasi-sj/TrackMe/blob/main/trackme-extension/README.md)
+- [Frontend README](https://github.com/kasi-sj/TrackMe/blob/main/trackme-web/README.md)
+- [Browser Extension README](https://github.com/kasi-sj/TrackMe/blob/main/track-me-backend/README.md)
 
 <h2>🛠️ Built With</h2>
 
