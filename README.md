@@ -2,19 +2,32 @@
 <p id="description">TrackMe is a comprehensive project that includes a backend server, a frontend web application, and a browser extension. The project is designed to track user screen time, provide insights into browsing habits, and manage website access restrictions.</p>
 <h2>🧐 Features</h2>
 
+## Web Application
 
-<h3>Web Application</h3>
+<table>
+  <tr>
+    <td><img src="https://github.com/kasi-sj/track-me-website/assets/110708280/2acf3498-4276-4a23-a468-dd10c278671f" alt="Screenshot 1" ></td>
+    <td><img src="https://github.com/kasi-sj/track-me-website/assets/110708280/0f47057f-1817-414a-872a-762734cee6d1" alt="Screenshot 2" ></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kasi-sj/track-me-website/assets/110708280/76867fe9-fec4-40c4-8912-d1be5e787fdb" alt="Screenshot 3" ></td>
+    <td><img src="https://github.com/kasi-sj/track-me-website/assets/110708280/5c8163bc-a4f5-44da-b439-a0bb4d944f28" alt="Screenshot 4" ></td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;"><img src="https://github.com/kasi-sj/track-me-website/assets/110708280/8e252a6d-fff3-4127-be8c-dcad575014ad" alt="Screenshot 5" ></td>
+  </tr>
+</table>
 
- ![Screenshot 2024-05-20 234141](https://github.com/kasi-sj/track-me-website/assets/110708280/2acf3498-4276-4a23-a468-dd10c278671f)
- ![Screenshot 2024-05-20 234627](https://github.com/kasi-sj/track-me-website/assets/110708280/0f47057f-1817-414a-872a-762734cee6d1)
- ![Screenshot 2024-05-20 234825](https://github.com/kasi-sj/track-me-website/assets/110708280/76867fe9-fec4-40c4-8912-d1be5e787fdb)
- ![Screenshot 2024-05-20 234959](https://github.com/kasi-sj/track-me-website/assets/110708280/5c8163bc-a4f5-44da-b439-a0bb4d944f28)
- ![Screenshot 2024-05-21 002717](https://github.com/kasi-sj/track-me-website/assets/110708280/8e252a6d-fff3-4127-be8c-dcad575014ad)
+## Web Extension
 
- <h3>Extension</h3>
 
-![Screenshot 2024-05-20 233830](https://github.com/kasi-sj/activity-tracker-extension/assets/110708280/a2ca1b96-5eb9-4f4d-8045-eaf363dca02c)
-![Screenshot 2024-05-20 233807](https://github.com/kasi-sj/activity-tracker-extension/assets/110708280/ba0e5cdf-0bd9-4b58-8313-202700aa5400)
+<table>
+  <tr>
+    <td><img src="https://github.com/kasi-sj/activity-tracker-extension/assets/110708280/a2ca1b96-5eb9-4f4d-8045-eaf363dca02c" alt="Screenshot 1" ></td>
+    <td><img src="https://github.com/kasi-sj/activity-tracker-extension/assets/110708280/ba0e5cdf-0bd9-4b58-8313-202700aa5400" alt="Screenshot 2" ></td>
+  </tr>
+</table>
+
 
 
 Here are some of the project's best features:
