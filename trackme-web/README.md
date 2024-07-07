@@ -78,7 +78,6 @@ Technologies used in the project:
 *   Next UI
 *   React Query
 
-<h2>💖Like my work?</h2>
 <p>
 There are 4 routes
 </p>
@@ -125,3 +124,9 @@ Steps to Sign In:
 <p>
 *  The website can be restricted by accessing the dashboard. Under the profile picture, there is a button labeled "Limit Website Usage." Click this button to add the website to the list of restricted or blocked sites.
 </p>
+
+<h2>💖Like my work?</h2>
+
+
+
+Give this repo a star ⭐
