@@ -68,3 +68,5 @@ Technologies used in the project:
 
 
 <h2>💖 Like My Work?</h2>
+
+Give this repo a star ⭐
