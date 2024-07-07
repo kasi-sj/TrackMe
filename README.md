@@ -49,9 +49,9 @@ This repository consists of three main components:
 Each component has its own detailed README file with specific setup instructions and features.
 <h2>📄 Subproject READMEs</h2>
 
-- [Backend README](https://github.com/kasi-sj/TrackMe/blob/main/trackme-extension/README.md)
+- [Browser Extension README](https://github.com/kasi-sj/TrackMe/blob/main/trackme-extension/README.md)
 - [Frontend README](https://github.com/kasi-sj/TrackMe/blob/main/trackme-web/README.md)
-- [Browser Extension README](https://github.com/kasi-sj/TrackMe/blob/main/track-me-backend/README.md)
+- [Backend README](https://github.com/kasi-sj/TrackMe/blob/main/track-me-backend/README.md)
 
 <h2>🛠️ Built With</h2>
 
